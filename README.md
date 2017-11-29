@@ -5,7 +5,7 @@ Atualmente e por algum tempo trabalho com Spring Boot (versao 4 -- 1.5.8-Release
 Nao possuo conhecimento em EJB, mas dei uma olhada e entendi um pouco da logica de comunicacao, estados dos Beans e etc.
 Nao possuo conhecimento em JSF e JSP. Trabalho com angularJS no Frontend Spring Boot no Backend; toda comunicao e troca de dados ocorre em JSON.
 
-Ah, ia esquecendo. Ambos os codigos foram feitos Eclipse. Dá pra importar o projeto por lá se ficar mais facil de executar ;)
+Ah, ia esquecendo. Ambos os codigos foram feitos no Eclipse. Dá pra importar o projeto por lá se ficar mais facil de executar ;)
 
 Resposta do teste:
 1-A
