@@ -34,9 +34,15 @@ Para compilar o projeto dos numeros e executar(questao 8):
 -- java -classpath number.jar com.lcl.MainNumbers
 
 Para compilar o projeto da arvore binaria e executar(questao 9):
+
 -- /testJava/Numbers
+
 -- mkdir build
+
 -- javac -d build/ src/com/lcl/*.java
+
 -- cd build/
+
 -- jar cvf btree.jar *
+
 -- java -classpath btree.jar com.lcl.BTreeApplication
