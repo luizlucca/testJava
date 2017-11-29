@@ -20,11 +20,17 @@ Baixar o projeto:
 -- git clone https://github.com/luizlucca/testJava.git
 
 Para compilar o projeto dos numeros e executar(questao 8):
+
 -- cd /testJava/Numbers
+
 -- mkdir build
+
 -- javac -d build/ src/com/lcl/MainNumbers.java
+
 -- cd build/
+
 -- jar cvf number.jar *
+
 -- java -classpath number.jar com.lcl.MainNumbers
 
 Para compilar o projeto da arvore binaria e executar(questao 9):
